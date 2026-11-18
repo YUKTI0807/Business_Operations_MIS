@@ -1,0 +1,5 @@
+Validation Rule,Issue Count,Status
+Order IDs must be unique,0,PASS
+Purchase date must not be missing,0,PASS
+Delivery date must not be before purchase date,0,PASS
+Payment value must not be negative,0,PASS

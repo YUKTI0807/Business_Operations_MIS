@@ -1,0 +1,9 @@
+order_status,total_orders,avg_delivery_days,avg_review_score
+approved,2,,2.5
+canceled,625,20.36,1.75
+created,5,,2.33
+delivered,96478,12.56,4.16
+invoiced,314,,1.62
+processing,301,,1.27
+shipped,1107,,2.01
+unavailable,609,,1.52

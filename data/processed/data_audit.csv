@@ -1,0 +1,9 @@
+Check,Count
+Duplicate Order IDs,0
+Missing Purchase Dates,0
+Orders Without Payment Records,1
+Orders With Missing Payment Totals,0
+Missing Customer IDs,0
+Delivered Orders Without Delivery Date,8
+Negative Payment Values,0
+Duplicate Order Item Keys,0
